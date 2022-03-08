@@ -1066,9 +1066,6 @@ a {
 .cid-sZuhWSZkGl img,
 .cid-sZuhWSZkGl .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-sZuhWSZkGl .item:focus,
 .cid-sZuhWSZkGl span:focus {
